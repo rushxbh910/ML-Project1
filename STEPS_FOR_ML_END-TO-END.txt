@@ -1,0 +1,12 @@
+1- set up github repo
+a)connecting vs code to github
+b)creating new env in vs code
+c)setup.py
+d)requirements.txt
+
+2. src folder and build the package
+
+note- to push to git hub
+- git add .
+- git commit -m "..."
+- git push -u origin to main
